@@ -1,6 +1,7 @@
 # ucla-cs32
 
-UCLA CS32 Winter 2023 Course Projects
+UCLA CS32 Winter 2024 Course Projects
+
 
 
 
