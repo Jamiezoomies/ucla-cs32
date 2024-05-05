@@ -1,0 +1,7 @@
+Name: Tae Hwan Kim
+UCLA ID: 506043010
+Description:
+I thought the overall coding concept for a deque was similar to doubly linked list features, plus the queue feature. 
+Project 5 improved my understanding of linked lists and queues. I encountered some errors while coding, as I needed to manage proper references precisely based on cases where the deque has nothing, single node, more than one node, etc.
+Initially, I didn't use the to_string function, but I noticed that it is required to parse a printItems string when the deque has a non-string type. 
+All the code was successfully completed, and all my custom test cases passed.

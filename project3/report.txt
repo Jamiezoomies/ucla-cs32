@@ -1,0 +1,9 @@
+Name: TAE HWAN KIM
+UCLA ID: 506043010
+
+Description:
+Additional tests have been added to test the 'get' function in cases where the parameter 'i' is greater than the list size. It should return false, and these tests worked properly. For the 'removeAllBiggerThan' function, using 'priorNode' was the best approach I could come up with, and it seemed to work properly. All of my tests have passed successfully.
+
+
+P.S.
+I'm writing this message to inquire whether it's possible to have the 5 points restored for programming project 2. I received a deduction of 5 points because the report document was empty. I wasn't aware that including a description was necessary to receive full points, even if no errors occurred, because it wasn't mentioned. As a new transfer student, I also wasn't familiar with how to access the released scores and feedback messages on my.ucla.edu when project 1 scores were released. Please consider this and let me know if it is acceptable. I appreciate your attention to this matter.

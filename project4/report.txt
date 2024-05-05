@@ -1,0 +1,8 @@
+Name: Tae Hwan Kim
+
+UCLA ID: 506043010
+
+Description:
+Due to an error with stod occurring when setting the fare in the Passenger class, I implemented validation code to handle cases where the fare string is empty or non-numeric. 
+For display() function of the PassengerOutputTable class, I used maps to precisely count the number of survivors and total passengers based on the specified field. 
+Additionally, a memory leak was detected when declaring a new OutputTableRow to push back into the rows vector, as I had accidentally declared it as a pointer. I resolved the issue by declaring the new OutputTableRow class without using a pointer. All tests passed successfully.
